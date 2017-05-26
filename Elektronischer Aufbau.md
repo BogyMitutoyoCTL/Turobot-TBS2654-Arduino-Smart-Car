@@ -8,7 +8,7 @@ Für den Aufbau werden benötigt:
 * ein Seitenschneider
 * ein Lötkolben und Lötzinn
 
-## Motorsteuerung
+## Befestigung der Motorsteuerung
 
 Die Motorsteuerung bekommt zunächst zwei Abstandshalter, die lediglich als Auflage dienen. Die mitgelieferten Senkkopfschrauben sind für die Befestigung nicht besonders gut geeignet. Beim Anziehen der Schrauben ist darauf zu achten, dass nicht zu fest zugedreht wird, da ansonsten die Platine brechen könnte.
 
@@ -35,3 +35,17 @@ Die zugeschnittenen Stiftleisten werden parallel zu den vorhandenen Buchsen eing
 ![Stiftleisten zuschneiden](./Elektronik/Arduino-Stiftleisten-zuschneiden.jpg)
 ![Zugeschnittene Stiftleisten](./Elektronik/Arduino-Stiftleisten-zugeschnitten.jpg)
 ![Angelötete Stiftleisten](./Elektronik/Arduino-Stiftleisten-angeloetet.jpg)
+
+## Befestigung des Arduinos
+
+Ähnlich wie die Motorsteuerung wird auch der Arduino zwar auf vier Abstandshaltern aufgestellt, jedoch nur zwei davon lassen sich festschrauben. Auch hier gilt die Empfehlung wie bei der Motorsteuerung: flache Schrauben verwenden, sofern vorhanden.
+
+Nach dem Anbringen unbedingt die Drehung auf der Unterseite überprüfen! Der Abstandshalter sollte keinen Kontakt zum danebenliegenden Pin haben.
+
+![Abstandshalter am Arduino](./Elektronik/Arduino-Abstandshalter.jpg)
+![Achtung auf der Unterseite](./Elektronik/Achtung-Unterseite.jpg)
+
+Auf der Platte werden die zwei anderen Abstandshalter befestigt, dann der Arduino daran angebracht:
+
+![Befestigungshalter für den Arduino](./Elektronik/Arduino-Befestigung.jpg)
+![Arduino angebracht](./Elektronik/Arduino-angebracht.jpg)
