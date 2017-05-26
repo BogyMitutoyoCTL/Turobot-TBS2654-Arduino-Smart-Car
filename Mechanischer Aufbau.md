@@ -24,3 +24,19 @@ Diese Schritte für alle vier Motoren wiederholen.
 Ungefähr erwartetes Ergebnis für einen Motor:
 
 ![Motor löten](./Mechanik/Motor-Loeten.jpg)
+
+## Motorhalterung befestigen
+
+Die Motoren werden im nächsten Schritt auf dem Chassis aus Plexiglas befestigt.
+
+1. Eine Schraube durch das Langloch des Halters stecken
+2. Motor auf die Schraube stecken so dass die Lichtschranke vom Halter wegzeigt
+3. Zweite Schraube durch die Halterung und den Motor stecken
+
+Diese Schritte für alle vier Motoren wiederholen.
+
+In Bildern:
+
+![Schraube in Halterung](./Mechanik/Schraube-in-Halter.jpg)
+![Motor auf Halterung](./Mechanik/Motor-auf-Halterung.jpg)
+![Zweite Schraube](./Mechanik/Motor-zweite-Schraube.jpg)
