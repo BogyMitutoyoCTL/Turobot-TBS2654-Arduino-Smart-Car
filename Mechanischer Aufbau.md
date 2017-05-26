@@ -7,6 +7,8 @@ Für den Aufbau werden benötigt:
 * einen Seitenschneider
 * eine Abisolierzange
 * ein Lötkolben und Lötzinn
+* Gabelschlüssel
+* Gabel- oder Ringschlüssel
 
 ## Motoren vorbereiten
 
@@ -64,3 +66,25 @@ Achtung! Deine Motoren sollten jeweils Verbindungsdrähte angelötet haben.
 Wenn die Räder angebracht werden, sieht das Ergebnis schon fast nach einem Auto aus.
 
 ![Räder befestigt](./Mechanik/Raeder-montiert.jpg)
+
+## Abstandshalter montieren
+
+Um dem Gebilde etwas Stabilität zu geben, werden zunächst sechs Abstandshalter befestigt, dann die zweite Grundplatte montiert. Die Abstandshalter können in Seitenlage oder auf dem Kopf gut montiert werden. Mit den Gabel- und Ringschlüsseln können die Muttern etwas angezogen werden.
+
+![Abstandshalter in Seitenlage montiret](./Mechanik/Abstandshalter.jpg)
+![Alle sechs Abstandshalter auf dem Kopf](./Mechanik/Alle-sechs-Abstandshalter.jpg)
+
+## Das fehlende Stück Handbuch
+
+Im mitgelieferten Handbuch wird im nächsten und letzten Schritt die zweite Platte montiert. Falls man das jetzt schon macht, bleiben folgende Teile übrig. Quasi die komplette Elektronik bleibt unberücksichtigt. Genau aus diesem Grund entsteht diese Anleitung.
+
+![Übrige Teile](./Mechanik/Uebrige-Teile.jpg)
+
+## Vorbereitung Elektronikaufbau
+
+Vor dem Anbringen der zweiten Platte ist zu prüfen, ob die Ausrichtung stimmt. Die Platte ist nicht exakt spiegel- und punktsymmetrisch. Falls die Bohrungen nicht genau passen, dann muss die Platte ggf. gedreht oder gewendet werden.
+
+Wenn die Lage bestimmt wurde, kann mit der Befestigung der Elektronik begonnen werden. Bis dahin bleibt die Platte jedoch lose, da Schrauben oder Muttern von unten angebracht werden müssen.
+
+![Grundplatten im Vergleich](./Mechanik/Grundplattenvergleich.jpg)
+![Grundplatte korrekt ausgerichtet](./Mechanik/Grundplatte-richtig.jpg)
