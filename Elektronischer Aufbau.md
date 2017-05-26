@@ -1,5 +1,13 @@
 # Elektronik Aufbau
 
+## Erforderliches Werkzeug
+
+Für den Aufbau werden benötigt:
+
+* Gabel- oder Ringschlüssel
+* ein Seitenschneider
+* ein Lötkolben und Lötzinn
+
 ## Motorsteuerung
 
 Die Motorsteuerung bekommt zunächst zwei Abstandshalter, die lediglich als Auflage dienen. Die mitgelieferten Senkkopfschrauben sind für die Befestigung nicht besonders gut geeignet. Beim Anziehen der Schrauben ist darauf zu achten, dass nicht zu fest zugedreht wird, da ansonsten die Platine brechen könnte.
@@ -17,3 +25,13 @@ Zusammengebaut ergibt sich:
 ![Motorsteuerung komplett montiert](./Elektronik/Motorsteuerung-komplett.jpg)
 
 ## Arduino Stiftleisten
+
+Die Stiftleisten für den Arduino werden am Stück geliefert und müssen zugeschnitten werden. Da sich die Anzahl der Stifte jeweils unterscheidet, empfiehlt es sich, die Stiftleiste mit den kurzen Beinchen in die vorhandenen Buchsen zu stecken und dann entsprechend abzuknipsen.
+
+Der Seitenschneider im Bild ist eher zu groß. Ein kleinerer Elektronik-Seitenschneider wäre sicherlich geschickter.
+
+Die zugeschnittenen Stiftleisten werden parallel zu den vorhandenen Buchsen eingelötet. Die kurzen Beinchen werden durch die Platine gesteckt, damit die langen Beinchen für die Verbinder zur Verfügung stehen.
+
+![Stiftleisten zuschneiden](./Elektronik/Arduino-Stiftleisten-zuschneiden.jpg)
+![Zugeschnittene Stiftleisten](./Elektronik/Arduino-Stiftleisten-zugeschnitten.jpg)
+![Angelötete Stiftleisten](./Elektronik/Arduino-Stiftleisten-angeloetet.jpg)
