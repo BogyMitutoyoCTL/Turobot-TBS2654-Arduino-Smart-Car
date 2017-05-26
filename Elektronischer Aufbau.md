@@ -49,3 +49,15 @@ Auf der Platte werden die zwei anderen Abstandshalter befestigt, dann der Arduin
 
 ![Befestigungshalter für den Arduino](./Elektronik/Arduino-Befestigung.jpg)
 ![Arduino angebracht](./Elektronik/Arduino-angebracht.jpg)
+
+## Der Servo
+
+Am Servo wird zunächst die Plexiglasplatte mit den Schlitzen befestigt.
+
+![Servo Plexiglas mit Befestigungsschlitzen](./Elektronik/Servo-Langloecher.jpg)
+
+Auf dem Servo wird die Halterung für den Ultraschallsensor angeschraubt. Es ist möglich, dass die Schraube zu lang ist und bei Drehen am Servo hängenbleibt. Daher muss die Schraube gekürzt werden.
+
+Hinweis zum Bild: die Plexiglasplatte fehlt hier.
+
+![Schraubenproblem](./Elektronik/Servo-Schraubenproblem.jpg)
