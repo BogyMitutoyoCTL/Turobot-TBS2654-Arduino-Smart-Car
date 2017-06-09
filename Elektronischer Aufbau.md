@@ -56,8 +56,22 @@ Am Servo wird zunächst die Plexiglasplatte mit den Schlitzen befestigt.
 
 ![Servo Plexiglas mit Befestigungsschlitzen](./Elektronik/Servo-Langloecher.jpg)
 
-Auf dem Servo wird die Halterung für den Ultraschallsensor angeschraubt. Es ist möglich, dass die Schraube zu lang ist und bei Drehen am Servo hängenbleibt. Daher muss die Schraube gekürzt werden.
+Danach kann der Servo mittels Langloch am Grundaufbau befestigt werden.
 
-Hinweis zum Bild: die Plexiglasplatte fehlt hier.
+## Ultraschallsensor
+
+Der Ultraschallsensor kommt später auf den Servo. Die Grundplatine bietet lediglich mechanische Funktionen wie die Anbringung auf dem Servo und die Möglichkeit, Kabel anzuschließen. Dazu sind folgende Schritte erforderlich:
+
+0. Die Ultraschall Grundplatine wird auf ein Ritzel geschraubt
+0. Der Ultraschallsensor wird auf die Grundplatine gesteckt
+0. Der Aufbau so entstandene Aufbau wird auf den Servo gesetzt
+
+Der erste Schritt erfordert etwas Aufmerksamkeit: Es ist möglich, dass die Schraube zu lang ist und bei Drehen am Servo hängenbleibt. Daher muss die Schraube mit dem Seitenschneider gekürzt werden.
+
+Hinweis zum Bild: die Plexiglasplatte am Servo fehlt hier.
 
 ![Schraubenproblem](./Elektronik/Servo-Schraubenproblem.jpg)
+
+![Ultraschall](./Elektronik/Ultraschall.jpg)
+
+![Ultraschall](./Elektronik/Ultraschall2.jpg)
